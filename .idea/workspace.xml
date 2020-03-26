@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="720b3d0d-124e-4c4b-8e7e-d75e46973587" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Stub" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZC6lEKDxkT5wu4fUSyU2FlB2oz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ljy77\Desktop\code\PlayGround\Qt for Python tutorial" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ljy77\Desktop\code\PlayGround" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.pe_icon">
+    <configuration name="Qt_version" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PlayGround" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Qt_version.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="about_Line_button" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PlayGround" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/about_Line_button.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="about_QTimer (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PlayGround" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/about_QTimer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="about_logging" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PlayGround" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/about_logging.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pe_icon" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PlayGround" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pe_icon.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Qt_version" />
+      <item itemvalue="Python.about_Line_button" />
+      <item itemvalue="Python.about_QTimer (1)" />
+      <item itemvalue="Python.about_logging" />
+      <item itemvalue="Python.pe_icon" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.pe_icon" />
+        <item itemvalue="Python.Qt_version" />
+        <item itemvalue="Python.about_QTimer (1)" />
+        <item itemvalue="Python.about_Line_button" />
+        <item itemvalue="Python.about_logging" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="showServicesTree" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="720b3d0d-124e-4c4b-8e7e-d75e46973587" name="Default Changelist" comment="" />
+      <created>1584330877834</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584330877834</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="178" key="#Notifications" timestamp="1584330947543">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1584330947543" />
+    <state x="414" y="174" width="1092" height="742" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584438321448">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="174" width="1092" height="742" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584438321448" />
+    <state x="702" y="309" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584503287848">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="702" y="309" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1584503287848" />
+    <state x="1069" y="352" key="#com.intellij.tools.ToolEditorDialog" timestamp="1584502008239">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1069" y="352" key="#com.intellij.tools.ToolEditorDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584502008239" />
+    <state x="740" y="299" key="FileChooserDialogImpl" timestamp="1584331507912">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="299" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1584331507912" />
+    <state width="1112" height="153" key="GridCell.Tab.0.bottom" timestamp="1584898801723">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1112" height="153" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1584898801723" />
+    <state width="1112" height="153" key="GridCell.Tab.0.center" timestamp="1584898801723">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1112" height="153" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1584898801723" />
+    <state width="1112" height="153" key="GridCell.Tab.0.left" timestamp="1584898801723">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1112" height="153" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1584898801723" />
+    <state width="1112" height="153" key="GridCell.Tab.0.right" timestamp="1584898801723">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1112" height="153" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1584898801723" />
+    <state x="353" y="160" key="SettingsEditor" timestamp="1584898792320">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="353" y="160" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1584898792320" />
+    <state x="616" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1584806358042">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="343" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584806358042" />
+    <state x="739" y="207" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1584501352073">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="739" y="207" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1584501352073" />
+    <state x="626" y="241" width="667" height="558" key="find.popup" timestamp="1584332298847">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="626" y="241" width="667" height="558" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1584332298847" />
+    <state x="701" y="163" key="refactoring.ChangeSignatureDialog" timestamp="1584487172105">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="701" y="163" key="refactoring.ChangeSignatureDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584487172105" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1584485530018">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1584485530018" />
+  </component>
+</project>

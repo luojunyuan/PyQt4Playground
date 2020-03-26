@@ -1,0 +1,1 @@
+pyinstaller -F -w --noupx main.spec
